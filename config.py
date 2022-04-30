@@ -1,1 +1,0 @@
-riot_api = "RGAPI-fe24ff74-92e9-4104-8a73-344b9c1eee8e" # Need to change everyday, could learn to automate
