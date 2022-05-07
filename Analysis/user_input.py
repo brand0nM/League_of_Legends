@@ -1,2 +1,2 @@
-region_code = "KR"
-region = "asia"
+region_code = "EUW1"
+region = "europe"

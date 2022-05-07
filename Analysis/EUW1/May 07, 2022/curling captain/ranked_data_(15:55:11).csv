@@ -1,0 +1,4 @@
+queueType,summonerId,summonerName,leaguePoints,wins,losses,veteran,inactive,freshBlood,hotStreak,leagueId,tier,rank
+RANKED_TFT_PAIRS,N9hJ-oCIRecZEJplZQT7yHmkZitN7Itr6bv6eBM2vBOlkFA,Curling Captain,0,5,16,False,False,False,False,,,
+RANKED_SOLO_5x5,N9hJ-oCIRecZEJplZQT7yHmkZitN7Itr6bv6eBM2vBOlkFA,Curling Captain,558,423,403,False,False,True,False,f6134c21-afc2-3c72-8b43-5259ec512b58,MASTER,I
+RANKED_FLEX_SR,N9hJ-oCIRecZEJplZQT7yHmkZitN7Itr6bv6eBM2vBOlkFA,Curling Captain,84,22,4,False,False,False,True,945582fc-0c8f-422a-93f7-8bdbf50a77da,GOLD,II
