@@ -1,4 +1,4 @@
-# Pyeague_of_Legends
+# Pyeague-of-Legends
 ## Overview
 Retrieve and store data from a player's recent games, champions played and ranked info.
 
