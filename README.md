@@ -3,7 +3,7 @@
 Retrieve and store data from a player's recent games, champions played and ranked info.
 
 ### Purpose
-Query data from Pyeague of Pegend API based on region or summoner name; Then create directories and export to JSON.
+Query data from Pyeague of Legend API based on region or summoner name; Then create directories and export to JSON.
 
 ## Process
 ### Input Region Info, Get Free Champs
